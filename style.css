@@ -1,0 +1,24 @@
+body{
+    background-color: rebeccapurple;
+}
+.pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 10;
+    font-style: normal;
+  }
+  
+.mar{
+    font-size: 30px;
+}
+
+.icon{
+    width: 40px;
+}
+  
+
+
+
+
+.font{
+    font-size: 50px;
+}
